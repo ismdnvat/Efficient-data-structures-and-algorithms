@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/binsearch_test.dir/binsearch_test/test_binsearch.cpp.o -o bin/binsearch_test 

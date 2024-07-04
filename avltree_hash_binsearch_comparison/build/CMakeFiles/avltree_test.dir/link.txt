@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/avltree_test.dir/avltree_test/test_avltree.cpp.o -o bin/avltree_test 

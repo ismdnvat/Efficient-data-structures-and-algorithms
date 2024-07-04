@@ -1,0 +1,6 @@
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/avltree_mm.dir
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/avltree_new_delete.dir
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/run_all.dir
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/avltree_comparison.dir
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/edit_cache.dir
+/home/tameris/6sem/isamidinova-EDSA/avltrees_comparison/build/CMakeFiles/rebuild_cache.dir

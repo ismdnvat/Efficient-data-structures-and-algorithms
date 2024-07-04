@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "avltree_hash_binsearch_comparison",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "avltree_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-avltree_test-Debug-95e0a4e067a72a6e9a67.json",
+					"name" : "avltree_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binsearch_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binsearch_test-Debug-7d64892db5ab80cd0b07.json",
+					"name" : "binsearch_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_data-Debug-33edd817b6fd784f8141.json",
+					"name" : "generate_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash_test-Debug-5225cd3ca3c8073f02d9.json",
+					"name" : "hash_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tameris/6sem/isamidinova-EDSA/avltree_hash_binsearch_comparison/cmake-build-debug",
+		"source" : "/home/tameris/6sem/isamidinova-EDSA/avltree_hash_binsearch_comparison"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

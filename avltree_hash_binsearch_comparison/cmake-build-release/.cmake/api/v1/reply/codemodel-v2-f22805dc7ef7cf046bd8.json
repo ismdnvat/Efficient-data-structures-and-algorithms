@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "avltree_hash_binsearch_comparison",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "avltree_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-avltree_test-Release-a52c2f02169af2064599.json",
+					"name" : "avltree_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binsearch_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binsearch_test-Release-823093f50efe187de58b.json",
+					"name" : "binsearch_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_data-Release-457758a7ca0f2fad13fd.json",
+					"name" : "generate_data",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hash_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hash_test-Release-f390ba42a89e7586aaa5.json",
+					"name" : "hash_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tameris/6sem/avltree_hash_binsearch_comparison/cmake-build-release",
+		"source" : "/home/tameris/6sem/avltree_hash_binsearch_comparison"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

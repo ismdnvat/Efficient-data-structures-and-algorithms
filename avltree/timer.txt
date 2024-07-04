@@ -1,0 +1,5 @@
+add: 979 milliseconds
+find: 186 milliseconds
+update: 218 milliseconds
+remove: 952 milliseconds
+clear: 18 milliseconds
